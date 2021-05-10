@@ -1,0 +1,27 @@
+
+/***
+ Requisitos Funcionais - O que a aplicação deve fazer
+ Requisitos Não-Funcionais - Como a aplicação deve fazer
+ Middlewares - Uma função que fica entre a requisição e o response
+
+
+ */
+
+/***
+ 
+GET - Buscar uma informação no servidor
+PUT - Alterar uma informação no servidor
+POST - Inserir uma informação no servidor
+DELETE - Excluir uma informação no servidor
+PATCH - Alterar uma informação especifico no servidor
+
+
+Tipos de Parametros: 
+
+Route Params => Indetificar um recurso editar/deletar/buscar
+Query Params => Paginação / Filtro  
+Body Params => Os objetos inserção/alteração
+
+ */
+
+
